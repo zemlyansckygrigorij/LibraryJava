@@ -13,8 +13,11 @@ repositories
 11) cujojs - https://github.com/cujojs
 
 Sites
-1)coursetro - https://coursetro.com
-2)javasampleapproach - http://javasampleapproach.com/
+1) coursetro - https://coursetro.com
+2) javasampleapproach - http://javasampleapproach.com/
+3) базовая документация - https://docs.oracle.com/
+4) Java IO Tutorial - http://tutorials.jenkov.com/java-io/index.html
+5) METANIT.COM - https://metanit.com
 
 YouTube channel
 1) DesignCourse - https://www.youtube.com/user/DesignCourse
