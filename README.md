@@ -18,6 +18,24 @@ Sites
 3) базовая документация - https://docs.oracle.com/
 4) Java IO Tutorial - http://tutorials.jenkov.com/java-io/index.html
 5) METANIT.COM - https://metanit.com
+6) developerWorks® - https://www.ibm.com/developerworks/ru/topics/
+7) Maven - http://www.apache-maven.ru/index.html
+8) JavaStudy - руководство для web-разработчика - http://javastudy.ru/
+9) Javenue - http://www.javenue.info/
+10) Quizful - http://www.quizful.net/
+11) ProgrammerInterview.com - http://www.programmerinterview.com/
+12) w3schools - https://www.w3schools.com/
+13) tutorialspoint - https://www.tutorialspoint.com
+14) LogicBig.com - https://www.logicbig.com/tutorials.html
+15) Spring: the source for modern java - https://spring.io/
+16) journaldev - https://www.journaldev.com/
+17) Postman - https://www.getpostman.com/
+18) Refactoring.Guru - https://refactoring.guru/
+19) books - http://www.wrox.com/WileyCDA/Section/Home.id-105001.html
+20) programming0862 - https://sites.google.com/site/programming0862/home
+21) Baeldung - http://www.baeldung.com/
+22) Emmanouil Gkatziouras - https://egkatzioura.com
+
 
 YouTube channel
 1) DesignCourse - https://www.youtube.com/user/DesignCourse
