@@ -25,5 +25,7 @@
  9) http://www.baeldung.com/spring-security-expressions
  10) Dozer - http://dozer.sourceforge.net/
              http://www.baeldung.com/dozer
+ 11) JDBC - http://www.javenue.info/post/java-jdbc-api
+            https://habrahabr.ru/sandbox/41444/
            
 
