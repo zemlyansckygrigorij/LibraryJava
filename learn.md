@@ -6,3 +6,9 @@
 6)oauth2
 7)jvt
 8) dto
+9) синий ключ 
+10)золотой ключ 
+11) http://www.baeldung.com/
+12)АОП
+13)Junit
+
