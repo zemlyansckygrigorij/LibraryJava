@@ -4,3 +4,5 @@
 4)unique key
 5)primary key
 6)oauth2
+7)jvt
+8) dto
