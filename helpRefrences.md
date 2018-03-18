@@ -23,5 +23,7 @@
            http://www.mkyong.com/tutorials/log4j-tutorial/
            http://www.javawebtutor.com/articles/log4j/
  9) http://www.baeldung.com/spring-security-expressions
+ 10) Dozer - http://dozer.sourceforge.net/
+             http://www.baeldung.com/dozer
            
 
