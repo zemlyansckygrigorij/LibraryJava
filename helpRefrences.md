@@ -16,5 +16,11 @@
         https://www.codecademy.com/articles/what-is-rest
 8) log4j - https://www.tutorialspoint.com/log4j/index.htm
            https://www.mkyong.com/logging/log4j-hello-world-example/
+           http://www.quizful.net/post/log4j-quickstart
+           https://habrahabr.ru/post/247647/
+           http://www.codejava.net/coding/how-to-configure-log4j-as-logging-mechanism-in-java
+           https://logging.apache.org/log4j/2.x/manual/configuration.html
+           http://www.mkyong.com/tutorials/log4j-tutorial/
+           http://www.javawebtutor.com/articles/log4j/
            
 
