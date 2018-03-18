@@ -11,4 +11,6 @@
 11) http://www.baeldung.com/
 12)АОП
 13)Junit
+14)primary key
+15)unique key
 
