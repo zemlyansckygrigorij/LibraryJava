@@ -14,5 +14,7 @@
         https://habrahabr.ru/post/319984/
         http://www.restapitutorial.ru/
         https://www.codecademy.com/articles/what-is-rest
-8)
+8) log4j - https://www.tutorialspoint.com/log4j/index.htm
+           https://www.mkyong.com/logging/log4j-hello-world-example/
+           
 
