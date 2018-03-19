@@ -27,5 +27,17 @@
              http://www.baeldung.com/dozer
  11) JDBC - http://www.javenue.info/post/java-jdbc-api
             https://habrahabr.ru/sandbox/41444/
+ 12) Spring - https://start.spring.io
+ 13) вопросы на собеседование - https://jsehelper.blogspot.ru/p/welcome.html
+ 14) Собеседование Java вопросы - http://www.quizful.net/interview/java
+ 15) ProgrammerInterview - http://www.programmerinterview.com
+ 16) w3schools - https://www.w3schools.com
+ 17) htmlbook - http://htmlbook.ru/
+ 18) Современный учебник Javascript - https://learn.javascript.ru/
+ 19) Spring Framework Documentation - https://docs.spring.io/spring/docs/current/spring-framework-reference/index.html
+ 20) https://www.javatpoint.com
+ 21) Javenue - http://www.javenue.info/
+ 22) Refactoring.Guru - https://refactoring.guru/
+ 23) Spring Framework Reference Documentation - https://docs.spring.io/spring-framework/docs/4.2.x/spring-framework-reference/html/
            
 
