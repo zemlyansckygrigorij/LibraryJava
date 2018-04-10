@@ -34,11 +34,11 @@
   l) AssertFalse()
   m) AssertNull()
   o) AssertEquals()
-  p)AssertArrayEquals()
+  p) AssertArrayEquals()
 24) Mosk-object -найти ?
 25) CSFR
 26) Api
-27)web-service
+27) web-service
 28) angular (чем можнло все испортить)
 29) java.swt
 30) UI
@@ -93,9 +93,23 @@ f) string ->byte[]
   g) group by
   h) order by
   i) use database
-  k)null
-  l)TCL
-  m)intersect
+  k) null
+  l) TCL
+  m) intersect
+67) FilterChain
+68) servlet jsp
+69) request
+70) response
+71) methods unit destroy
+72) rest
+73) get post
+74) кук сессия
+75) url
+76) uri
+77) куки в сервлетах 
+78) динамический и статический сервлет
+79) jsp
+80) jstl
 
 
 
