@@ -37,4 +37,14 @@
   p)AssertArrayEquals()
 24) Mosk-object -найти ?
 25) CSFR
+26) Api
+27)web-service
+28) angular (чем можнло все испортить)
+29) java.swt
+30) UI
+31) Junit test
+32)makita
+33)метод с очисткой памяти
+34) finalize
+35)java heap(куча)
 
