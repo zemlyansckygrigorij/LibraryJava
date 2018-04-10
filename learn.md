@@ -36,4 +36,5 @@
   o) AssertEquals()
   p)AssertArrayEquals()
 24) Mosk-object -найти ?
+25) CSFR
 
